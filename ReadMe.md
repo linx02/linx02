@@ -10,6 +10,18 @@
 
 # 💼 Projects:
 
+#### [Resume website](https://github.com/linx02/resume)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/linx02/resume"><img width="900" src="https://github.com/linx02/resume/raw/master/resume.gif" alt="Resume website preview"></a>
+    </td>
+    <td>
+      Personal resume / portfolio website.
+    </td>
+  </tr>
+</table>
+
 #### [Project Hub](https://github.com/linx02/project-hub)
 <table>
   <tr>
