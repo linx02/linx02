@@ -58,11 +58,11 @@
 </table>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=linx02&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=linx02&theme=radical&hide_border=true)
-![](https://github-contributor-stats.vercel.app/api?username=linx02&limit=5&theme=radical&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=linx02&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=linx02&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=linx02&icon=0&color=1)](https://visitcount.itsvg.in)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=linx02&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br />
+![](https://github-readme-stats.vercel.app/api?username=linx02&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-streak-stats.herokuapp.com/?user=linx02&theme=radical&hide_border=true)<br />
+![](https://github-contributor-stats.vercel.app/api?username=linx02&limit=5&theme=radical&combine_all_yearly_contributions=true)<br />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=linx02&theme=radical&no-frame=true&no-bg=true&margin-w=4)
