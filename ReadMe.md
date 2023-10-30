@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/linx02/resume"><img width="900" src="https://github.com/linx02/resume/raw/master/resume.gif" alt="Resume website preview"></a>
+      <a href="https://github.com/linx02/resume"><img width="400" src="https://github.com/linx02/resume/raw/master/resume.gif" alt="Resume website preview"></a>
     </td>
     <td>
       Personal resume / portfolio website.
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/linx02/project-hub"><img width="900" src="https://github.com/linx02/project-hub/raw/main/media/devicemockups.png" alt="Project Hub Device Mockups"></a>
+      <a href="https://github.com/linx02/project-hub"><img width="1150" src="https://github.com/linx02/resume/blob/master/public/images/project_hub.png" alt="Project Hub Device Mockups"></a>
     </td>
     <td>
       Project Hub is a sharing platform mainly aimed at students of Code Institute looking to share their school projects and check out other students projects, but is open to everyone and all users are welcome.
@@ -38,6 +38,9 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/linx02/genderpredictor"><img width="1310" src="https://github.com/linx02/resume/blob/master/src/images/gender_predictor.png" alt="Gender predictor preview"></a>
+    </td>
+    <td>
       Gender predictor is my attempt at making an image classifier using convolutional neural networks(CNN). With an accuracy score of 93% it can accurately predict the gender of a person based on a picture on their face.
     </td>
   </tr>
@@ -47,15 +50,19 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/linx02/project-cauldron"><img width="1250" src="https://github.com/linx02/resume/blob/master/public/images/witches_brew.png" alt="Witches brew preview"></a>
+    <td>
       Witches Brew was created as a team project for the "PhantomForge" Halloween Hackathon by Code Institute. Witches brew is a single player game were players brew potions and fights enemies in rounds.
     </td>
   </tr>
 </table>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=linx02&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=linx02&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=linx02&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=linx02&theme=radical&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=linx02&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=linx02&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=linx02&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=linx02&theme=radical&no-frame=true&no-bg=true&margin-w=4)
@@ -63,10 +70,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=linx02&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=linx02&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
