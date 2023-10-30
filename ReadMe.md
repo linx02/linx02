@@ -1,8 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at [linuselvius.com](https://linuselvius.com)<br>📫 How to reach me elvius.linus@gmail.com
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linus-elvius-52b098266)
 
 # 💻 Tech Stack:
