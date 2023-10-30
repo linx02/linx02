@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at linuselvius.com<br>📫 How to reach me elvius.linus@gmail.com
+🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at [linuselvius.com](https://linuselvius.com)<br>📫 How to reach me elvius.linus@gmail.com
 
 
 ## 🌐 Socials:
